@@ -1,0 +1,13 @@
+{
+    "r2_score": 0.5746,
+    "mse": 0.5574,
+    "rmse": 0.7466,
+    "mejor_parametro": {
+        "max_depth": 10
+    },
+    "variables_usadas": [
+        "MedInc",
+        "HouseAge",
+        "AveRooms"
+    ]
+}
